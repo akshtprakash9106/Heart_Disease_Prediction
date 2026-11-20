@@ -89,13 +89,13 @@ These results are from a single train-test split and have not been independently
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/akshtprakash9106/Heart-Disease-Prediction.git
+git clone https://github.com/akshtprakash9106/Heart_Disease_Prediction.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Heart-Disease-Prediction
+cd Heart_Disease_Prediction
 ```
 
 ### 3. Install dependencies
